@@ -1,1 +1,3 @@
-root@kali:~/Code/github/backdoor-apk/backdoor-apk# ./backdoor-apk.sh BaiduBrowser.apk
+root@kali:~/Code/github/backdoor-apk/backdoor-apk# 
+./backdoor-apk.sh 
+BaiduBrowser.apk
